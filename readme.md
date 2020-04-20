@@ -10,7 +10,7 @@
 
 [Visual](https://visualgo.net/en/sorting)
 
-[Dancing Bubble Sort]("https://www.youtube.com/watch?v=lyZQPjUT5B4")
+[Dancing Bubble Sort]("https://www.youtube.com/watchv=lyZQPjUT5B4")
 
 ## Time Complexity
 
