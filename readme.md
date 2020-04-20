@@ -18,10 +18,15 @@
 
 When the array is not sorted this sorting algorithm uses nested for loops to compare all items and sort them.
 
-#### Best Case Complexity: O(N)
+### Best Case Complexity: O(N)
 
 linear time on an already sorted array in the case that the code has been optimized.
 
-### Resources
+`array = [1,2,3,4,5,6,7]`
+
+`array = [7,1,2,3,4,5,6]`
+
+#### Resources
 
 [E Question Answers](equestionanswers.com/c/c-bubble-sort.php)
+[Bubble Sort Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
