@@ -9,6 +9,7 @@
 ![Step 4](./images/bubble-sort-step4-iteration-stages.png)
 
 [Visual](https://visualgo.net/en/sorting) /
+
 [Dancing Bubble Sort]("https://www.youtube.com/watch?v=lyZQPjUT5B4")
 
 ## Time Complexity
