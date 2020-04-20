@@ -1,6 +1,8 @@
 # Bubble Sort
 
-**Bubble Sort** or **Sinking Sort** is a simple sorting method that will sort an array by comparing adjacent elements in an array and swaps their positions if they are in the wrong order.
+**Bubble Sort** or **Sinking Sort** is a simple sorting method that will sort an array by comparing adjacent elements in an array and swaps their positions if they are in the wrong order. In effect causing each item to "bubble" to the position it belongs.
+
+## Diagram
 
 ![Step 1](./images/bubble-sort-step1-iteration-stages.png)
 ![Step 2](./images/bubble-sort-step2-iteration-stages.png)
@@ -10,13 +12,17 @@
 
 [Visual](https://visualgo.net/en/sorting)
 
+[![Dancing Bubble Sort](./images/dance.png)](https://www.youtube.com/watch?v=lyZQPjUT5B4)
+
 [Dancing Bubble Sort](https://www.youtube.com/watchv=lyZQPjUT5B4)
 
 ## Time Complexity
 
-### Worst Case Complexity: O(n^2)
+### Worst Case Complexity: O(n<sup>2</sup>)
 
 When the array is not sorted this sorting algorithm uses nested for loops to compare all items and sort them.
+
+`array = [7,6,5,4,3,2,1]`
 
 ### Best Case Complexity: O(N)
 
@@ -26,7 +32,12 @@ linear time on an already sorted array in the case that the code has been optimi
 
 `array = [7,1,2,3,4,5,6]`
 
+### Use Cases
+
+This simple algorithm performs poorly in real world use and is used primarily as an educational tool.
+
 #### Resources
 
 [E Question Answers](equestionanswers.com/c/c-bubble-sort.php)
+
 [Bubble Sort Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
