@@ -2,13 +2,11 @@
 
 # Required fields: unit, section and type
 
-unit: 2
+unit: cs
 
-section: computer science
+section: algos
 
 type: lesson
-
-prereqs: basic iterators, conditionals
 
 level: 1
 # optional fields:
