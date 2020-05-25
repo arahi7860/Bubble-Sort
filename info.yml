@@ -2,13 +2,15 @@
 
 # Required fields: unit, section and type
 
-unit: (unit here)
+unit: 2
 
-section: (section here)
+section: computer science
 
-type: (type here)
+type: lesson
 
+prereqs: basic iterators, conditionals
 
+level: 1
 # optional fields:
   # notes
   # prereqs
