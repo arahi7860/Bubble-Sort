@@ -20,7 +20,7 @@ Bubble Sort is mainly used to introduce the concept of an algorithm, or a sortin
 
 ### Worst Case Complexity: O(n<sup>2</sup>)
 
-When the array is not sorted this sorting algorithm uses nested for loops to compare all items and sort them. This sorting algorithm performs poorly with large data sets or if the data set is in a reversed order.
+When the array is not sorted this sorting algorithm uses nested loops to compare all items and sort them. This sorting algorithm performs poorly with large data sets or if the data set is in a reversed order.
 
 `array = [7,6,5,4,3,2,1]`
 
