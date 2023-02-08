@@ -1,5 +1,15 @@
 # Bubble Sort
 
+## Learning Objectives
+
+- Intro to Sorting Algorithms
+  - What is a sorting algorithm?
+
+- Bubble Sort
+  - What is _Bubble Sort_?
+  - What ways can we write a bubble sort algorithm?
+  - What are the pitfalls of bubble sort?
+  - 
 **Bubble Sort** or **Sinking Sort** is a simple sorting method that will sort an array by comparing adjacent elements in an array and swaps their positions if they are in the wrong order. In effect causing each item to "bubble" to the position it belongs.
 
 Bubble Sort is mainly used to introduce the concept of an algorithm, or a sorting algorithm and due to poor performance not widely used in the "real world."
